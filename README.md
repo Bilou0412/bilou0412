@@ -25,7 +25,6 @@
 - 💡 Working on innovative projects at 42
 
 ### 📫 How to reach me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilou42)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilel-moudache-0218a11b0/)
 
 Feel free to connect with me or check out my projects!
