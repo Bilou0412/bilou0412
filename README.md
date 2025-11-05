@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Bilel
 
 [![42 School](https://img.shields.io/badge/42-School-blue?style=for-the-badge&logo=42)](https://42.fr/)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bilel.bilel&left_color=gray&right_color=blue)]([https://github.com/bilel](https://youtu.be/dQw4w9WgXcQ?si=vSvnSws4IITbbT50))
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bilel.bilel&left_color=gray&right_color=blue)](https://youtu.be/dQw4w9WgXcQ?si=vSvnSws4IITbbT50)
 
 ## About Me
 🎓 I'm currently a student at [42 School](https://42.fr/), pursuing my passion for software development and technology.
