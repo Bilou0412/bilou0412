@@ -1,32 +1,29 @@
-# 👋 Hi there, I'm Bilel
+# Bilel Moudache
 
-[![42 School](https://img.shields.io/badge/42-School-blue?style=for-the-badge&logo=42)](https://42.fr/)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bilel.bilel&left_color=gray&right_color=blue)](https://youtu.be/dQw4w9WgXcQ?si=vSvnSws4IITbbT50)
+**I look for truth through code.** I build things to put ideas to the test — and I turn them into questions everyone can play with.
 
-## About Me
-🎓 I'm currently a student at [42 School](https://42.fr/), pursuing my passion for software development and technology.
+---
 
-### 💻 Technical Skills
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- Proficient in C++
-- Python Development
-- Problem Solving & Algorithm Design
+### What that means
 
-### 🚀 Interests & Focus Areas
-![AI](https://img.shields.io/badge/AI%20&%20ML-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=ethereum&logoColor=white)
-![Software Dev](https://img.shields.io/badge/Software%20Development-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Code is how I ask questions.** Some of my projects ask whether code itself is right — whether what an AI wrote can be proven by a machine instead of trusted on its looks. Others ask something about people, and take the shape of a game, because a game is a question you want to play with. More will come, and they won't look alike: the question comes first, the form follows.
 
-### 🌟 What I'm Up To
-- 📚 Expanding my knowledge in AI/ML
-- 🔗 Exploring Web3 technologies and decentralized applications
-- 💡 Working on innovative projects at 42
+**I'd rather be proven wrong than agreed with.** Agreement proves nothing. An idea is only worth something once it has met the real world — real projects, real people — and survived.
 
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilel-moudache-0218a11b0/)
+**Thinking is better together, and more fun.** I start the topic; the point is for everyone to think it through, argue with it, break it. Open an issue, tell me where I'm wrong.
 
-Feel free to connect with me or check out my projects!
+### My tools
 
+**Rust** — the one I trust, and I tend to reach for nothing else.
 
+**Claude**, by Anthropic — I build with it every day, and a good part of what you'll find here was written with it. That's exactly why I care so much about proving what it writes rather than believing it.
+
+### What I defend
+
+> **Spec over code.**
+>
+> Code is disposable. What matters is the question you ask and what you set out to prove — the spec, the tests, the decisions. Keep those, and you can delete the code and rebuild it without anyone worrying.
+
+---
+
+[42 Paris](https://42.fr/) · [LinkedIn](https://www.linkedin.com/in/bilel-moudache-0218a11b0/)
